@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Voxel Craft: Survival \u0026 Creative Challenge",
+  "description": "A 3D voxel sandbox game starting in classic survival mode and advancing into progressive creative building challenges with blueprint guides, crafting, day-night cycle, and physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
